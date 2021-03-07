@@ -2,9 +2,7 @@
 
 This plrogam is a simple platform based jumping game similar to doodle jump. use the spacebar to jump and the left and right arrows to move side to side. The purpose for creating this program was to learn how to add visual output to a program.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/Etk7NYqttn4)
 
 # Development Environment
 
